@@ -1,0 +1,4 @@
+# Created by cloud-init v. 22.1-14-g2e17a0d6-0ubuntu1~20.04.3 on Sun, 05 Jun 2022 17:03:36 +0000
+
+# User rules for nealick
+nealick ALL=(ALL) NOPASSWD:ALL
